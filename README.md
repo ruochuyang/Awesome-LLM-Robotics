@@ -90,6 +90,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 * **LLM-Reward**: "Language to Rewards for Robotic Skill Synthesis", *arXiv, Jun 2023*. [[Paper](https://arxiv.org/abs/2306.08647)] [[Website](https://language-to-reward.github.io/)]
 * **AlphaBlock**: "AlphaBlock: Embodied Finetuning for Vision-Language Reasoning in Robot Manipulation", *arxiv, May 2023*. [[Paper](https://arxiv.org/abs/2305.18898)]
 * **CoPAL**: "Corrective Planning of Robot Actions with Large Language Models", *arXiv, Oct 2023*. [[Paper](https://arxiv.org/abs/2310.07263)] [[Website](https://hri-eu.github.io/Loom/)][[Code](https://github.com/HRI-EU/Loom/tree/main)]
+* **OceanChat**: "OceanChat: Piloting Autonomous Underwater Vehicles in Natural Language", *arXiv, Sep 2023*. [[Paper](https://arxiv.org/abs/2309.16052)] [[Website](https://sites.google.com/view/oceanchat)]
 
 
 ---
